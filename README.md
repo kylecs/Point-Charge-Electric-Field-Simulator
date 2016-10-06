@@ -6,10 +6,12 @@ soon.
 
 ##Running
 Clone the repository:
+
 `git clone https://github.com/kylecs/Point-Charge-Electric-Field-Simulator`
 
 Compile and run:
-'make'
+
+`make`
 
 ##Demo
 *Click to play*
